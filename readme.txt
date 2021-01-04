@@ -6,3 +6,4 @@ Creating a new branch is quick and simple.
 Non-ff
 Made some changes
 Made some changes again
+Author is me
